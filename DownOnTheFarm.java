@@ -1,8 +1,8 @@
-package downonthefarmassignment;
+package downonthefarm;
 
 import java.util.Scanner;
 
-public class DownOnTheFarmAssignment {
+public class DownOnTheFarm {
 	static Scanner keyb = new Scanner(System.in); //Opens scanner to receive input from user
 
 	public static void main(String[] args) {
